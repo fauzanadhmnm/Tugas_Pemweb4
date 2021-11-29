@@ -1,0 +1,53 @@
+*{
+    border-radius: 8px;
+}
+.container div {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.top div{
+    width: 400px;
+    height: 130px;
+    background-size: 400px 260px;
+}
+.box1{
+    background-image: url(img/\(1\).jpg);
+    background-position: 0px 160px;    
+}
+.box2{
+    background-image:url(img/\(2\).jpg);
+    background-position: 0px 175px;        
+}
+.box3{
+    background-image: url(img/\(3\).jpg);
+    background-position: 0px 225px;
+}
+.bottom div{
+    margin-top: 20px;
+    width: 230px;
+    height: 80px;
+    background-size: 400px 260px;
+    
+}
+.box4{
+    background-image: url(img/\(4\).jpg);
+    background-position: 0px 115px;
+}
+.box5{
+    background-image: url(img/\(5\).jpg);
+    background-position: 0px 185px;    
+}
+.box6{
+    background-image:url(img/\(6\).jpg);
+    background-position: 0px 195px;
+}
+.box7{                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+    background-image:url(img/\(7\).jpg);
+    background-position: -100px 80px;
+}
+.box8{
+    background-image: url(img/\(8\).jpg);
+    background-position: -100px 100px;
+}
